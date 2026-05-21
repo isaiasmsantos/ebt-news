@@ -1,0 +1,32 @@
+=== Dump Diário de Notícias Embratur (2026) - 2026-05-21 ===
+
+TÍTULO: Projeto Hermes, da Embratur, é finalista do Prêmio Brasil de Gestão Pública 2026
+LINK: https://embratur.com.br/2026/05/20/projeto-hermes-da-embratur-e-finalista-do-premio-brasil-de-gestao-publica-2026/
+TEXTO:
+20/5/2026 – A plataforma de gestão estratégica e orçamentária desenvolvida pela Embratur, Hermes, é um dos cinco finalistas do Prêmio Brasil de Gestão Pública 2026, na categoria Inovação em Gestão Pública. O anúncio feito pela organização Expo GovBrasil reconhece as práticas mais eficientes e transparentes da administração pública no país.
+
+Criado para solucionar a fragmentação de dados e otimizar o controle do orçamento da Agência, o Hermes utiliza a tecnologia no-code, através do Google AppSheet. A ferramenta permite o acompanhamento em tempo real de investimentos em mais de 200 mercados globais, transformando o que antes eram semanas de compilação manual de planilhas em relatórios gerados em poucos minutos.
+
+Para o diretor de Gestão e Inovação da Embratur, Roberto Gevaerd, a indicação ao prêmio consolida uma nova fase da Agência, focada na inteligência de dados e na otimização de recursos. “Estar entre os finalistas do Prêmio Brasil de Gestão Pública comprova que a Embratur não apenas promove o nosso país para o mundo com excelência, mas faz isso com responsabilidade e inteligência no uso do recurso público. O Hermes representa uma virada de chave na nossa instituição. Transformamos a transparência e a eficiência em pilares da nossa atuação, mostrando que uma gestão inovadora é fundamental para atrairmos mais turistas, gerarmos mais empregos e fortalecermos a imagem do Brasil no exterior”, afirmou.
+
+O diferencial que levou o Hermes à final do prêmio é o seu modelo de desenvolvimento. Construído por uma equipe interna, em apenas 18 meses, o sistema apresentou um custo dez vezes menor do que as soluções convencionais de mercado. Além disso, a ferramenta integrou áreas de planejamento, finanças e contabilidade, eliminando gargalos estruturais.
+
+Case global
+
+Antes de figurar entre as iniciativas mais inovadoras do país, a eficiência do Hermes já havia conquistado o reconhecimento do mercado corporativo internacional. O sucesso do desenvolvimento interno chamou a atenção da própria Google, que convidou a equipe da Embratur para apresentar a plataforma no palco principal do Google Cloud Summit, realizado em São Paulo no ano passado. Durante o evento, a ferramenta foi destacada como um dos maiores e mais completos casos de uso da plataforma AppSheet em toda a América Latina.
+
+Além da apresentação presencial, a jornada de transição tecnológica conduzida pela Agência consolidou-se como um estudo de caso oficial publicado no site global do Google Workspace. O que atesta a robustez do Hermes e valida uma premissa fundamental desta gestão: a Embratur tem plena capacidade de ser protagonista na criação de soluções ágeis, com alta economia de recursos e sob medida para suas necessidades complexas.
+
+Gevaerd, destacou que a indicação é um reconhecimento ao talento técnico da casa. “Sair de um cenário de planilhas fragmentadas para um sistema que é reconhecido globalmente pelo Google e, agora, finalista de um dos prêmios mais importantes da administração pública brasileira é uma vitória imensa do nosso time. O Hermes é a prova de que apostar na inovação interna e em tecnologias ágeis não apenas moderniza a rotina da agência, mas gera uma economia real, elimina burocracias e dá à liderança o poder de tomar decisões baseadas em dados concretos e em tempo real”, destacou Gevaerd.
+
+Premiação
+
+O Prêmio Brasil de Gestão Pública recebeu inscrições de todo o país e selecionou as cinco melhores iniciativas em 12 categorias. O sistema da Embratur concorre na categoria que avalia soluções que resultem em melhoria significativa na prestação de serviços ou na tomada de decisão governamental.
+
+A cerimônia de premiação e o anúncio dos vencedores ocorre em 26 de maio de 2026, às 18h, durante a programação oficial da Expo GovBrasil 2026, no Transamérica Expo Center, em São Paulo (SP).
+
+Sobre o Hermes
+
+Lançado em janeiro de 2025, o Hermes é como um painel de controle que conecta o planejamento estratégico da Embratur à execução financeira da Agência. O sistema permite visualizar gastos por mercado prioritário, segmentos turísticos e ferramentas de promoção, garantindo transparência total e facilitando auditorias de órgãos de controle, como o Tribunal de Contas da União (TCU).
+======================================================================
+
